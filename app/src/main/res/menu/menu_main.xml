@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    xmlns:tools="http://schemas.android.com/tools"
+
+    tools:context="com.reminder.todolist.projectxyz.com.todolist.reminder.MainActivity">
+
+
+    <item
+
+        android:id="@+id/action_favorite"
+
+        android:icon="@drawable/ic_alarm_add_black_24dp"
+
+        android:orderInCategory="300"
+
+        android:title="ADD"
+
+        app:showAsAction="ifRoom"></item>
+
+    <item
+
+        android:id="@+id/settings"
+
+        android:icon="@drawable/ic_settings_black_24dp"
+
+        android:orderInCategory="300"
+
+        android:title="SETTINGS"
+
+        app:showAsAction="ifRoom"></item>
+
+    <item
+
+        android:id="@+id/share"
+
+        android:icon="@drawable/ic_share_black_24dp"
+
+        android:orderInCategory="300"
+
+        android:title="SHARE"
+        android:background="@color/dark"
+
+        app:showAsAction="ifRoom"></item>
+
+
+</menu>

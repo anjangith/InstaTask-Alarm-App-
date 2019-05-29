@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">INSTA TASK</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_notification_yes">NotificationYes</string>
+    <string name="title_activity_notification_no">NotificationNo</string>
+    <string name="title_activity_foreground_yes">ForegroundYes</string>
+    <string name="title_activity_foreground_no">ForegroundNo</string>
+    <string name="title_activity_stats">StatsActivity</string>
+</resources>
